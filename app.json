@@ -1,0 +1,26 @@
+{
+  "id": "e50077f6-6b33-4882-b431-a5d89e953dc3",
+  "name": "GITDEMO_umang",
+  "publisher": "Default publisher",
+  "version": "1.0.0.0",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "18.0.0.0",
+  "idRanges": [
+    {
+      "from": 50100,
+      "to": 50149
+    }
+  ],
+  "contextSensitiveHelpUrl": "https://GITDEMO_umang.com/help/",
+  "showMyCode": true,
+  "runtime": "7.0"
+}
